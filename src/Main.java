@@ -10,7 +10,7 @@ public class Main {
         List<Second> secondList = first.getSeconds();
         for(Second second : secondList) {
             for (Third third : second.getSeconds()){
-                if (third.getName().equals("third3Name")) {
+                if (third.getName().equals("third3Name-")) {
                     nameThird = third.getName();
                     nameSecond = second.getName();
 //                    break;
