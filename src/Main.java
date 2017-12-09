@@ -13,7 +13,7 @@ public class Main {
                 if (third.getName().equals("third3Name")) {
                     nameThird = third.getName();
                     nameSecond = second.getName();
-                    break;
+//                    break;
                 }
             }
         }
