@@ -22,7 +22,7 @@ public class First {
 
     @Override
     public String toString() {
-        return "First{" +
+        return "-First{" +
                 "name='" + name + '\'' +
                 ", seconds=" + seconds +
                 '}';
